@@ -44,7 +44,7 @@ Este proyecto está licenciado bajo la Licencia "DeMi". Consulta el archivo LICE
 
 ## Agradecimientos
 - A todos los desarrolladores que contribuyeron a este proyecto "SoloYo".
-- A la comunidad de Java por su apoyo y recursos.
+- A la comunidad de Java por su apoyo y recursos @Alura.
 
 ---
 
